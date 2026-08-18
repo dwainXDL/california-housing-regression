@@ -1,0 +1,18 @@
+# venv
+.dwainsvenv/
+.venv/
+venv/
+
+# personal files
+reference-files/
+CLAUDE.md
+
+# python
+__pycache__/
+*.py[cod]
+
+# jupyter
+.ipynb_checkpoints/
+
+# octave
+octave-workspace
